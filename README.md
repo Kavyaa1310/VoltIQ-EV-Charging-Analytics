@@ -16,17 +16,12 @@ The project brings together five Excel datasets covering charging sessions, stat
 | 👥 Customers | Customer activity and charging behaviour |
 | 📍 Stations | Station-level performance and comparisons |
 
-
 🖥️ Dashboard Pages
 
-01 — Executive Overview
-A high-level view of the charging network with key performance indicators, trends, and interactive filtering.
-02 — Revenue & Energy Analytics
-Explores revenue generation and energy consumption to understand financial and operational performance.
-03 — Customer & Charging
-Examines customer activity, charging behaviour, and usage patterns.
-04 — Station Performance
-Compares charging stations based on operational activity, revenue, and energy performance.
+01.Executive Overview - A high-level view of the charging network with key performance indicators, trends, and interactive filtering.
+02.Revenue & Energy Analytics -  Explores revenue generation and energy consumption to understand financial and operational performance.
+03.Customer & Charging - Examines customer activity, charging behaviour, and usage patterns.
+04.Station Performance - Compares charging stations based on operational activity, revenue, and energy performance.
 
 🗂️ Data
 
@@ -38,20 +33,9 @@ The analysis is built using five Excel datasets:
 - Data_Dictionary.xlsx
 The datasets were prepared and transformed before being integrated into the Power BI data model.
 
-
 ⚙️ Data & Analytics Workflow
 
-Raw Excel Data
-↓
-Data Cleaning & Transformation
-↓
-Data Modeling
-↓
-DAX Measures & KPIs
-↓
-Interactive Dashboard
-↓
-Business Insights
+Raw Excel Data → Data Cleaning & Transformation → Data Modeling → DAX Measures & KPIs → Interactive Dashboard → Business Insights
 
 🛠️ Tools Used
 
@@ -59,7 +43,6 @@ Business Insights
 - Power Query
 - DAX
 - Microsoft Excel
-
 
 🎯 Skills Demonstrated
 
@@ -71,7 +54,6 @@ Business Insights
 - Business Intelligence
 - Analytical Thinking
 - Business-focused Reporting
-
 
 💡 Project Purpose
 
