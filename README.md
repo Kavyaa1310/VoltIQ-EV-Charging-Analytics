@@ -18,10 +18,10 @@ The project brings together five Excel datasets covering charging sessions, stat
 
 🖥️ Dashboard Pages
 
-01.Executive Overview - A high-level view of the charging network with key performance indicators, trends, and interactive filtering.
-02.Revenue & Energy Analytics -  Explores revenue generation and energy consumption to understand financial and operational performance.
-03.Customer & Charging - Examines customer activity, charging behaviour, and usage patterns.
-04.Station Performance - Compares charging stations based on operational activity, revenue, and energy performance.
+01. Executive Overview — A high-level view of the charging network with key performance indicators, trends, and interactive filtering.
+02. Revenue & Energy Analytics — Explores revenue generation and energy consumption to understand financial and operational performance.
+03. Customer & Charging — Examines customer activity, charging behaviour, and usage patterns.
+04. Station Performance — Compares charging stations based on operational activity, revenue, and energy performance.
 
 🗂️ Data
 
